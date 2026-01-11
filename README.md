@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Hi,%20I'm%20Basanta%20👋&fontSize=80&animation=fadeIn" />
 </p>
 
@@ -63,4 +63,16 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+</p> -->
+### Hi, I’m Basanta K 👋
+
+I’m a full-stack developer with a strong focus on frontend engineering.
+I build scalable web applications using React, Node.js, Express, and MongoDB.
+
+- Frontend: React, Tailwind CSS
+- Backend: Node.js, Express, MongoDB
+- Currently working on a real-world company CRM project
+- Focused on clean architecture and maintainable code
+
+🔗 Portfolio: https://basanta-khatri.netlify.app
+📫 Email: khatribasanta.works09@gmail.com
