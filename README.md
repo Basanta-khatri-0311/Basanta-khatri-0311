@@ -74,5 +74,5 @@ I build scalable web applications using React, Node.js, Express, and MongoDB.
 - Currently working on a real-world company CRM project
 - Focused on clean architecture and maintainable code
 
-🔗 Portfolio: https://basanta-khatri.netlify.app
+🔗 Portfolio: [https://kbasanta.com.np/](https://kbasanta.com.np/)
 📫 Email: khatribasanta.works09@gmail.com
